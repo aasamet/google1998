@@ -1,0 +1,69 @@
+.center { 
+    text-align: center;
+    align-items: center;
+}
+
+img {
+     display: block; 
+    margin: auto;
+    border: 0px solid black;
+}
+
+.bg-grey {
+
+    background-color:rgb(175, 170, 170);
+    /* width: 850px; */
+    margin: auto;
+    width: 90%;
+    border: 0px solid green;
+    padding: 10px
+}
+
+.box-ortalama {
+    margin: auto;
+    width: 90%;
+    border: 0px solid green;
+    padding: 10px
+}
+
+
+input {
+    width: 300px;
+}
+.input-size {
+    width: 150px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.bg-green {
+    background-color:rgb(109, 201, 129);
+    color: white;
+    text-shadow: 5px;
+
+}
+.box-left {
+    float: left;
+    width: 30%;
+    height: 104px;
+    margin: 1px;
+
+}
+
+.box-center {
+    float: left;
+    width: 25%;
+    margin: 1px;
+
+}
+.box-right {
+
+    float:left;
+    width: 20%;
+    height: 104px;
+    margin: 1px;
+}
